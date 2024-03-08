@@ -18,7 +18,7 @@
 		<java.version>1.8</java.version>
 		<sonar.host.url>http://54.144.193.201:9000/</sonar.host.url>
     <sonar.login>admin</sonar.login>
-    <sonar.password>admin</sonar.password>
+    <sonar.password>venkat</sonar.password>
 	</properties>
 	<dependencies>
 		<dependency>
